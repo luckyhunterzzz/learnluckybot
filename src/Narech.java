@@ -21,7 +21,8 @@ public class Narech {
         add("nostra our");
         add("li there");
         add("libero free");
-        add("molte many");
+        add("molti many");
+        add("molto very");
         add("nero black");
         add("ogni every");
         add("per for");
@@ -34,6 +35,17 @@ public class Narech {
         add("sempre always");
         add("spesso often");
         add("timido shy");
+        add("divertente fun");
+        add("purtroppo unfortunately");
+        add("noioso boring");
+        add("bello beautiful");
+        add("dopo then");
+        add("strano strange");
+        add("troppo too");
+        add("spaventoso frightening");
+        add("altro other");
+        add("subito immediately");
+        add("importante important");
         }};
     private int number;
 

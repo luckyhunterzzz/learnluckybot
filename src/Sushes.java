@@ -9,7 +9,8 @@ public class Sushes {
         add("aperitivo aperitif");
         add("appartamento apartment");
         add("bagno restroom");
-        add("bambino children");
+        add("bambino child");
+        add("bambini children");
         add("banca bank");
         add("biglietto ticket");
         add("camicia shirt");
@@ -33,10 +34,9 @@ public class Sushes {
         add("fuochi_d'artificio Fireworks");
         add("gatto cat");
         add("giardino garden");
-        add("importante important");
         add("inglese english");
         add("latte milk");
-        add("lavoro job");
+        add("lavoro work");
         add("letto bed");
         add("fratello brother");
         add("salve hello");
@@ -76,6 +76,22 @@ public class Sushes {
         add("vicino neighbor");
         add("zaino backpack");
         add("gli_zaini backpacks");
+        add("malato sick");
+        add("cuoca cook");
+        add("qualcosa anything");
+        add("soggiorno living room");
+        add("stivali boots");
+        add("fine_settimana weekend");
+        add("donna woman");
+        add("rumore noise");
+        add("grido scream");
+        add("voce voice");
+        add("notte night");
+        add("fantasma ghost");
+        add("paura fear");
+        add("aiuto help");
+        add("giorno day");
+        add("uomo man");
 
     }};
     private int number;
